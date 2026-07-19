@@ -1,8 +1,6 @@
 # Nextcloud Groupfolders UI Patch
 
-A lightweight JavaScript patch for the Nextcloud Files app that improves the integration and usability of Groupfolders.
-
-The patch is designed to be loaded through JSONLoader and does **not** modify the Nextcloud or Groupfolders source code.
+A lightweight JavaScript patch for the Nextcloud Files app that improves the integration and usability of Groupfolders. The patch is designed to be loaded through JSONLoader and does **not** modify the Nextcloud or Groupfolders source code.
 
 ## Features
 
@@ -37,8 +35,6 @@ The patch is designed to be loaded through JSONLoader and does **not** modify th
 |-----------|---------|
 | Nextcloud | 33.0.5 |
 | Groupfolders | 21.0.9 |
-
-## Installation
 
 ## Installation
 
