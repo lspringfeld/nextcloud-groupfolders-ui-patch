@@ -38,12 +38,11 @@ A lightweight JavaScript patch for the Nextcloud Files app that improves the int
 
 ## Installation
 
+## Installation
+
 1. Install the JSONLoader app (or any equivalent solution capable of loading custom JavaScript).
-2. Use the `groupfolders.js` file from this repository, either:
-   - by using its raw GitHub URL, or
-   - by copying the script into your JavaScript loader.
-3. Configure JSONLoader to load the script.
-4. Reload the Files app.
+2. Add the contents of `groupfolders-ui-patch.js` to your JavaScript loader.
+3. Reload the Files app.
 
 ## Configuration
 
